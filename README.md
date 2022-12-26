@@ -36,4 +36,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ---
 
-Desenvolvido by Marcelo Neves
+Desenvolvido por Marcelo Neves
